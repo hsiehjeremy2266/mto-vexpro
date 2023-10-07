@@ -241,6 +241,8 @@ int  Position(){
 
         preheading=raw_imu; 
 
+        wait(10,msec);
+        
   }
 
         return 0;   
